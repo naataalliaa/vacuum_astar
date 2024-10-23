@@ -16,4 +16,3 @@ This project implements an A* search algorithm for a vacuum-cleaning agent opera
 1. **Part A** uses heuristic `h1(n)` (from Homework 2 Q5.3).
 2. **Part B** uses heuristic `h2(n)` (from Homework 2 Q5.4).
 
-# vacuum_astar
